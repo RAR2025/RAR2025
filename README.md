@@ -6,11 +6,33 @@
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=B89B6F&center=true&vCenter=true&width=560&lines=console.log(%22Hello+World%22)+%F0%9F%91%8B;Building+things+with+AI+%2B+Data+%F0%9F%A4%96;Turning+coffee+%E2%98%95+into+code+%F0%9F%92%BB;Currently+debugging+my+own+life+%F0%9F%98%85" alt="Typing SVG"/>
+
+<br/>
+
 [![GitHub](https://img.shields.io/badge/GitHub-RAR2025-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RAR2025)
 [![LeetCode](https://img.shields.io/badge/LeetCode-RAR2025-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/RAR2025/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-rar2026-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/rar2026)
 [![Portfolio](https://img.shields.io/badge/Portfolio-B89B6F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-website-ten-self-yl8ho5d0ro.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruturaj.rajwade@gmail.com)
+
+</div>
+
+<br/>
+
+## 🕹️ My Contribution Graph
+
+> Pac-Man eats my commits. Ghosts chase him across my coding history. 🍒 *waka waka waka* 🍒
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RAR2025/RAR2025/output/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RAR2025/RAR2025/output/pacman-contribution-graph.svg"/>
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RAR2025/RAR2025/output/pacman-contribution-graph.svg" width="100%" loading="eager"/>
+</picture>
+
+<sub><a href="https://github.com/RAR2025?tab=overview">View live on GitHub</a></sub>
 
 </div>
 
@@ -88,28 +110,12 @@ I'm a Computer Science student at VESIT, Chembur, who enjoys building projects, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RAR2025&show_icons=true&theme=tokyonight&hide_border=true&title_color=B89B6F&icon_color=B89B6F&text_color=c9d1d9" width="48%" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAR2025&layout=compact&theme=tokyonight&hide_border=true&title_color=B89B6F&text_color=c9d1d9" width="48%" alt="Top languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=RAR2025&show_icons=true&theme=tokyonight&hide_border=true&title_color=B89B6F&icon_color=B89B6F&text_color=c9d1d9" width="48%" alt="GitHub stats" loading="eager"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAR2025&layout=compact&theme=tokyonight&hide_border=true&title_color=B89B6F&text_color=c9d1d9" width="48%" alt="Top languages" loading="eager"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RAR2025&theme=tokyonight&hide_border=true&ring=B89B6F&fire=B89B6F&currStreakLabel=B89B6F" width="60%" alt="GitHub streak"/>
-
-</div>
-
-<br/>
-
-## 🕹️ My Contribution Graph
-
-> Pac-Man eats my commits. Ghosts chase him across my coding history. 🍒 *waka waka waka* 🍒
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RAR2025/RAR2025/output/pacman-contribution-graph-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RAR2025/RAR2025/output/pacman-contribution-graph.svg"/>
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RAR2025/RAR2025/output/pacman-contribution-graph.svg"/>
-</picture>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RAR2025&theme=tokyonight&hide_border=true&ring=B89B6F&fire=B89B6F&currStreakLabel=B89B6F" width="60%" alt="GitHub streak" loading="eager"/>
 
 </div>
 
