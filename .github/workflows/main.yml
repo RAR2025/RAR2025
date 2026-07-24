@@ -20,12 +20,36 @@ jobs:
         timeout-minutes: 20
 
         steps:
+            - name: checkout
+              uses: actions/checkout@v4
+
             - name: generate contribution graph SVGs
               uses: abozanona/pacman-contribution-graph@main
               with:
                   github_user_name: ${{ github.repository_owner }}
                   # Comma-separated list of game names to generate. Default: pacman
                   games: 'pacman'
+
+            # Workaround: the upstream action emits raw '&' in SVG content
+            # (e.g. in tooltips / titles), which breaks XML parsing in browsers.
+            # Escape '&' that is not part of an existing entity reference.
+            - name: fix unescaped ampersands in generated SVGs
+              run: |
+                  set -euo pipefail
+                  shopt -s globstar nullglob
+                  for f in dist/**/*.svg; do
+                      # Replace '&' not followed by a valid entity with '&amp;'
+                      python3 - "$f" <<'PY'
+                  import re, sys
+                  p = sys.argv[1]
+                  with open(p, 'r', encoding='utf-8') as fh:
+                      s = fh.read()
+                  entity = r'amp|lt|gt|quot|apos|#\d+|#x[0-9A-Fa-f]+'
+                  s = re.sub(r'&(?!' + entity + r';)', '&amp;', s)
+                  with open(p, 'w', encoding='utf-8') as fh:
+                      fh.write(s)
+                  PY
+                  done
 
             # Push the generated SVGs to the output branch
             - name: push SVGs to the output branch
