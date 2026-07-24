@@ -71,9 +71,7 @@ whoami:
 
 <br clear="right"/>
 
-
 ---
-
 
 <br/>
 
