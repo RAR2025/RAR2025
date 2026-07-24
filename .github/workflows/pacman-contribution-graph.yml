@@ -1,0 +1,28 @@
+name: pacman contribution graph
+
+on:
+    schedule:
+        - cron: '0 0 * * *'
+    workflow_dispatch:
+    push:
+        branches:
+            - main
+
+concurrency:
+    group: pacman-${{ github.ref }}
+    cancel-in-progress: false
+
+jobs:
+    generate:
+        permissions:
+            contents: write
+        runs-on: ubuntu-latest
+        timeout-minutes: 20
+
+        steps:
+            - name: generate pacman contribution graph SVGs
+              uses: abozanona/pacman-contribution-graph@main
+              with:
+                  github_user_name: ${{ github.repository_owner }}
+              env:
+                  GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
