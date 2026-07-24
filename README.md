@@ -59,7 +59,7 @@ whoami:
   name: Ruturaj Amit Rajwade
   role: Computer Science Student @ VESIT, Chembur
   base: Thane, Mumbai, India
-  focus: [AI, Data Science, Clean Software]
+  focus: [AI, System Design, Problem Solving, Machine Learning , Clean Software]
   philosophy: >
     Technical growth comes from curiosity,
     consistency, teamwork, and continuous learning.
@@ -74,38 +74,6 @@ whoami:
 
 ---
 
-
-## 🎓 &nbsp;Education
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🏛️ Vivekanand Education Society's Institute of Technology**
-Bachelor of Technology · *2024 – 2028*
-Chembur, Mumbai
-
-| Semester | SGPI |
-|:---:|:---:|
-| Sem 1 | `10.00` |
-| Sem 2 | `9.82` |
-| Sem 3 | `9.80` |
-| Sem 4 | `9.08` |
-
-</td>
-<td width="50%" valign="top">
-
-**🏫 VPM's B. N. Bandodkar Science College**
-Higher Secondary Standard · *2022 – 2024*
-Thane
-
-| Result | Score |
-|:---:|:---:|
-| Percentage | `83.4%` |
-
-</td>
-</tr>
-</table>
 
 <br/>
 
