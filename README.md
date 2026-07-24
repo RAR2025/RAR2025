@@ -213,11 +213,11 @@ End-to-end Aadhaar analytics platform fusing enrollment, biometric, and demograp
 |:---:|:---:|:---:|
 | **3rd Place** | **Finalist** | **Finalist · Top 10** |
 
-<br/>
+<!-- <br/>
 
 <img src="https://github-profile-trophy.vercel.app/?username=RAR2025&theme=dark&no-frame=true&row=1&column=6&margin-w=8" />
 
-</div>
+</div> -->
 
 <br/>
 
@@ -227,12 +227,12 @@ End-to-end Aadhaar analytics platform fusing enrollment, biometric, and demograp
 
 ## 📊 &nbsp;GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=RAR2025&show_icons=true&theme=transparent&hide_border=true&title_color=38BDF8&icon_color=38BDF8&text_color=ffffff&bg_color=000000" width="49%"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAR2025&layout=compact&theme=transparent&hide_border=true&title_color=38BDF8&text_color=ffffff&bg_color=000000" width="38%"/>
 
-<br/>
+<br/> -->
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAR2025&theme=transparent&hide_border=true&background=000000&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&stroke=38BDF8" width="60%" alt="GitHub streak"/>
 
