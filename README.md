@@ -1,12 +1,10 @@
 <div align="center">
 
-# Ruturaj Amit Rajwade
+<img src="assets/header-banner.svg" width="100%" alt="Ruturaj Amit Rajwade"/>
 
-<sub><b>Building projects. Exploring tools. Solving problems.</b></sub>
+<br/><br/>
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=console.log(%22Hello+World%22)+%F0%9F%91%8B;not+merely+a+coder+but+a+digital+artist+%F0%9F%8E%A8;Turning+coffee+%E2%98%95+into+code+%F0%9F%92%BB;Currently+debugging+my+own+life+%F0%9F%98%85" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=38BDF8&vCenter=true&width=600&background=000000&center=true&lines=console.log(%22Hello+World%22)+%F0%9F%91%8B;not+merely+a+coder+but+a+digital+artist+%F0%9F%8E%A8;Turning+coffee+%E2%98%95+into+code+%F0%9F%92%BB;Currently+debugging+my+own+life+%F0%9F%98%85" alt="Typing SVG"/>
 
 <br/>
 
@@ -125,18 +123,18 @@ Thane
 
 **AI Tools**
 
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot_Agent-000000?style=for-the-badge&logo=githubcopilot&logoColor=38BDF8)
-![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=googlegemini&logoColor=38BDF8)
-![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=terminal&logoColor=38BDF8)
+<img src="https://img.shields.io/badge/GitHub_Copilot_Agent-000000?style=for-the-badge&logo=githubcopilot&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=googlegemini&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/OpenCode-000000?style=for-the-badge&logo=terminal&logoColor=38BDF8"/>
 
 **Frameworks & Libraries**
 
 <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,django,fastapi&theme=dark" />
 <br/>
-![scikit-learn](https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logo=scikit-learn&logoColor=38BDF8)
-![Pandas](https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=38BDF8)
-![NumPy](https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=38BDF8)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=38BDF8)
+<img src="https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logo=scikit-learn&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=plotly&logoColor=38BDF8"/>
 
 </div>
 
@@ -262,6 +260,6 @@ End-to-end Aadhaar analytics platform fusing enrollment, biometric, and demograp
 
 <br/><br/>
 
-<sub>⭐️ From <a href="https://github.com/RAR2025">RAR2025</a></sub>
+<a href="https://github.com/RAR2025"><img src="assets/footer-banner.svg" width="100%" alt="RAR2025"/></a>
 
 </div>

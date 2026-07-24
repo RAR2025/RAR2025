@@ -1,0 +1,5 @@
+<svg width="1200" height="60" viewBox="0 0 1200 60" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="60" fill="#000000"/>
+  <line x1="0" y1="0" x2="1200" y2="0" stroke="#38BDF8" stroke-width="2" opacity="0.6"/>
+  <text x="600" y="37" font-family="Segoe UI, Verdana, Arial, sans-serif" font-size="16" fill="#38BDF8" text-anchor="middle">⭐ From RAR2025</text>
+</svg>
