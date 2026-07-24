@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=B89B6F&center=true&vCenter=true&width=560&lines=console.log(%22Hello+World%22)+%F0%9F%91%8B;Building+things+with+AI+%2B+Data+%F0%9F%A4%96;Turning+coffee+%E2%98%95+into+code+%F0%9F%92%BB;Currently+debugging+my+own+life+%F0%9F%98%85" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=B89B6F&center=true&vCenter=true&width=560&lines=console.log(%22Hello+World%22)+%F0%9F%91%8B;not+merely+a+coder+but+a+digital+artist+%F0%9F%8E%A8;Turning+coffee+%E2%98%95+into+code+%F0%9F%92%BB;Currently+debugging+my+own+life+%F0%9F%98%85" alt="Typing SVG"/>
 
 <br/>
 
