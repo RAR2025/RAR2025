@@ -112,10 +112,6 @@ I'm a Computer Science student at VESIT, Chembur, who enjoys building projects, 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAR2025&theme=tokyonight&hide_border=true&ring=B89B6F&fire=B89B6F&currStreakLabel=B89B6F" width="60%" alt="GitHub streak" loading="eager"/>
 
-<br/><br/>
-
-<sub><i>Detailed stats card temporarily unavailable — the upstream github-readme-stats service is returning 503. It will return once the service recovers.</i></sub>
-
 </div>
 
 <br/>
