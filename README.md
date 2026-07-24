@@ -110,12 +110,11 @@ I'm a Computer Science student at VESIT, Chembur, who enjoys building projects, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=RAR2025&show_icons=true&theme=tokyonight&hide_border=true&title_color=B89B6F&icon_color=B89B6F&text_color=c9d1d9" width="48%" alt="GitHub stats" loading="eager"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAR2025&layout=compact&theme=tokyonight&hide_border=true&title_color=B89B6F&text_color=c9d1d9" width="48%" alt="Top languages" loading="eager"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RAR2025&theme=tokyonight&hide_border=true&ring=B89B6F&fire=B89B6F&currStreakLabel=B89B6F" width="60%" alt="GitHub streak" loading="eager"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RAR2025&theme=tokyonight&hide_border=true&ring=B89B6F&fire=B89B6F&currStreakLabel=B89B6F" width="60%" alt="GitHub streak" loading="eager"/>
+<sub><i>Detailed stats card temporarily unavailable — the upstream github-readme-stats service is returning 503. It will return once the service recovers.</i></sub>
 
 </div>
 
